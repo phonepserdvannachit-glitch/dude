@@ -3,7 +3,6 @@
 // ===================================================
 
 let currentFilter   = 'all';
-let updateFilter    = 'all';
 let isTableView     = false;
 let currentDetailBillId = null;
 let createGoodsRows = [];
